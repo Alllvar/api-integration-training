@@ -1,0 +1,42 @@
+[
+ {
+  "id": "1",
+  "name": "Mykola",
+  "details": {
+   "description": "Web developer, brother of Victor",
+   "age": 25
+  }
+ },
+ {
+  "id": "2",
+  "name": "Victor",
+  "details": {
+   "description": "Trainee frontend developer, brother of Mykola",
+   "age": 18
+  }
+ },
+ {
+  "id": "3",
+  "name": "Yurii",
+  "details": {
+   "description": "Web developer, friend of Mykola",
+   "age": 26
+  }
+ },
+ {
+  "id": "4",
+  "name": "Taras",
+  "details": {
+   "description": "Tech lead, very cool developer",
+   "age": 29
+  }
+ },
+ {
+  "id": "5",
+  "name": "Ihor",
+  "details": {
+   "description": "Senior, friend of Mykola, very cool developer",
+   "age": 22
+  }
+ }
+]
